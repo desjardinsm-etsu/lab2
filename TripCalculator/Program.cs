@@ -17,3 +17,5 @@ double fuelCost = gallonsNeeded * pricePerGallon;
 //Print the calculations
 Console.WriteLine("Gallons needed: " + gallonsNeeded.ToString("F2"));
 Console.WriteLine("Fuel cost: " + fuelCost.ToString("C"));
+
+//make some changes!!!!
